@@ -1,0 +1,22 @@
+#borderPane{
+    -fx-background-image: url("BG.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-position: center center;
+}
+
+#title {
+    -fx-font-size: 30px;
+    -fx-font-family: cursive;
+    -fx-font-style: italic;
+}
+
+#field {
+    -fx-pref-height: 30px;
+}
+
+#process {
+    -fx-background-color: null;
+    -fx-font-size: 20px;
+}
+
+
